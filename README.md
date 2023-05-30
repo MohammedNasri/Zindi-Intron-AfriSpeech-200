@@ -25,6 +25,8 @@ This repository contains Code Solution on how to get Top Places in the Challenge
 ## [On the Leaderboard](https://zindi.africa/competitions/intron-afrispeech-200-automatic-speech-recognition-challenge/leaderboard)
 
 Look for the team named : 19
+
 Rank : 1/382
-Authors : Nasri Mohaammed & Aber Seyf-El-Islem
+
+Authors : Nasri Mohammed & Aber Seyf-El-Islem
 
