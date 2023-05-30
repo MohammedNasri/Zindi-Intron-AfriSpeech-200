@@ -28,5 +28,5 @@ Look for the team named : 19
 
 Rank : 1/382
 
-Authors : Nasri Mohammed & Aber Seyf-El-Islem
+Authors : [Nasri Mohammed](https://www.linkedin.com/in/mohammed-nasri/) & [Aber Seyf-El-Islem](https://dz.linkedin.com/in/seif-aber)
 
